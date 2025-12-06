@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "title": "Pushpa 2: The Rule",
+        "region": "India",
+        "releaseDate": "2024-12-05",
+        "poster": "",
+        "description": "Pushpa Raj solidifies his empire while facing a formidable new enemy."
+    },
+    {
+        "id": 2,
+        "title": "Mufasa: The Lion King",
+        "region": "Hollywood",
+        "releaseDate": "2024-12-20",
+        "poster": "",
+        "description": "The origin story of Simba's father and his journey to becoming king."
+    },
+    {
+        "id": 3,
+        "title": "Baby John",
+        "region": "India",
+        "releaseDate": "2024-12-25",
+        "poster": "",
+        "description": "A man with a mysterious past protects his daughter from dangerous enemies."
+    },
+    {
+        "id": 4,
+        "title": "Game Changer",
+        "region": "India",
+        "releaseDate": "2025-01-10",
+        "poster": "",
+        "description": "An honest IAS officer challenges corrupt politicians in this political thriller."
+    },
+    {
+        "id": 5,
+        "title": "Kraven the Hunter",
+        "region": "Hollywood",
+        "releaseDate": "2024-12-13",
+        "poster": "",
+        "description": "The origin story of Spider-Man's notorious villain and big game hunter."
+    },
+    {
+        "id": 6,
+        "title": "Azaad",
+        "region": "India",
+        "releaseDate": "2025-01-17",
+        "poster": "",
+        "description": "A period drama about a horse and the bond with its young caretaker."
+    },
+    {
+        "id": 7,
+        "title": "Captain America: Brave New World",
+        "region": "Hollywood",
+        "releaseDate": "2025-02-14",
+        "poster": "",
+        "description": "Sam Wilson takes on the shield facing a global conspiracy threatening world peace."
+    },
+    {
+        "id": 8,
+        "title": "Deva",
+        "region": "India",
+        "releaseDate": "2025-01-31",
+        "poster": "",
+        "description": "A maverick cop takes on a complex case filled with twists and turns."
+    },
+    {
+        "id": 9,
+        "title": "Mickey 17",
+        "region": "Hollywood",
+        "releaseDate": "2025-03-07",
+        "poster": "",
+        "description": "A disposable employee on a space colonization mission faces existential questions."
+    },
+    {
+        "id": 10,
+        "title": "Chhaava",
+        "region": "India",
+        "releaseDate": "2025-02-14",
+        "poster": "",
+        "description": "The epic tale of Chhatrapati Sambhaji Maharaj's valor and sacrifice."
+    },
+    {
+        "id": 11,
+        "title": "Thunderbolts*",
+        "region": "Hollywood",
+        "releaseDate": "2025-05-02",
+        "poster": "",
+        "description": "A group of antiheroes band together for a dangerous government mission."
+    },
+    {
+        "id": 12,
+        "title": "Sky Force",
+        "region": "India",
+        "releaseDate": "2025-01-24",
+        "poster": "",
+        "description": "India's first air strike film celebrating the bravery of Air Force heroes."
+    },
+    {
+        "id": 13,
+        "title": "The Fantastic Four: First Steps",
+        "region": "Hollywood",
+        "releaseDate": "2025-07-25",
+        "poster": "",
+        "description": "Marvel's first family makes their MCU debut in a retro-futuristic adventure."
+    },
+    {
+        "id": 14,
+        "title": "L2: Empuraan",
+        "region": "India",
+        "releaseDate": "2025-03-27",
+        "poster": "",
+        "description": "The sequel to Lucifer follows the rise of Stephen Nedumpally."
+    },
+    {
+        "id": 15,
+        "title": "Mission: Impossible 8",
+        "region": "Hollywood",
+        "releaseDate": "2025-05-23",
+        "poster": "",
+        "description": "Ethan Hunt faces his most impossible mission yet in this action spectacle."
+    },
+    {
+        "id": 16,
+        "title": "Baaghi 4",
+        "region": "India",
+        "releaseDate": "2025-09-05",
+        "poster": "",
+        "description": "Ronnie returns with more intense action and a personal vendetta to settle."
+    },
+    {
+        "id": 17,
+        "title": "Jurassic World Rebirth",
+        "region": "Hollywood",
+        "releaseDate": "2025-07-04",
+        "poster": "",
+        "description": "A new chapter in the dinosaur saga with higher stakes and new dangers."
+    },
+    {
+        "id": 18,
+        "title": "Sitaare Zameen Par",
+        "region": "India",
+        "releaseDate": "2025-12-25",
+        "poster": "",
+        "description": "A heartwarming tale of special children finding their place in the world."
+    },
+    {
+        "id": 19,
+        "title": "Superman",
+        "region": "Hollywood",
+        "releaseDate": "2025-07-11",
+        "poster": "",
+        "description": "James Gunn reboots the Man of Steel for the new DC Universe."
+    },
+    {
+        "id": 20,
+        "title": "Raid 2",
+        "region": "India",
+        "releaseDate": "2025-02-21",
+        "poster": "",
+        "description": "The honest income tax officer returns to expose another massive scam."
+    },
+    {
+        "id": 21,
+        "title": "Avatar 3",
+        "region": "Hollywood",
+        "releaseDate": "2025-12-19",
+        "poster": "",
+        "description": "Jake Sully and the Na'vi face new threats from the fire-wielding Ash People."
+    },
+    {
+        "id": 22,
+        "title": "Singham Again",
+        "region": "India",
+        "releaseDate": "2024-11-01",
+        "poster": "",
+        "description": "Bajirao Singham leads an action-packed mission inspired by Ramayana."
+    },
+    {
+        "id": 23,
+        "title": "Wicked: Part Two",
+        "region": "Hollywood",
+        "releaseDate": "2025-11-26",
+        "poster": "",
+        "description": "The conclusion to the epic musical tale of the witches of Oz."
+    },
+    {
+        "id": 24,
+        "title": "Bhool Bhulaiyaa 3",
+        "region": "India",
+        "releaseDate": "2024-11-01",
+        "poster": "",
+        "description": "Rooh Baba returns to battle supernatural forces in this horror comedy."
+    },
+    {
+        "id": 25,
+        "title": "F1",
+        "region": "Hollywood",
+        "releaseDate": "2025-06-27",
+        "poster": "",
+        "description": "A veteran driver returns to Formula 1 alongside a talented rookie."
+    },
+    {
+        "id": 26,
+        "title": "Thug Life",
+        "region": "India",
+        "releaseDate": "2025-06-05",
+        "poster": "",
+        "description": "A gangster epic from Mani Ratnam featuring an ensemble cast."
+    },
+    {
+        "id": 27,
+        "title": "28 Years Later",
+        "region": "Hollywood",
+        "releaseDate": "2025-06-20",
+        "poster": "",
+        "description": "The rage virus returns in this continuation of the cult horror franchise."
+    },
+    {
+        "id": 28,
+        "title": "Housefull 5",
+        "region": "India",
+        "releaseDate": "2025-06-06",
+        "poster": "",
+        "description": "The biggest comedy franchise returns with chaos on a cruise ship."
+    },
+    {
+        "id": 29,
+        "title": "The Smurfs Movie",
+        "region": "Hollywood",
+        "releaseDate": "2025-02-14",
+        "poster": "",
+        "description": "The beloved blue characters return in a new animated adventure."
+    },
+    {
+        "id": 30,
+        "title": "Jolly LLB 3",
+        "region": "India",
+        "releaseDate": "2025-04-10",
+        "poster": "",
+        "description": "The small-town lawyer returns to fight for justice in the courtroom."
+    },
+    {
+        "id": 31,
+        "title": "Elio",
+        "region": "Hollywood",
+        "releaseDate": "2025-06-13",
+        "poster": "",
+        "description": "A young boy becomes Earth's interstellar ambassador in this Pixar adventure."
+    },
+    {
+        "id": 32,
+        "title": "War 2",
+        "region": "India",
+        "releaseDate": "2025-08-14",
+        "poster": "",
+        "description": "High-octane spy thriller featuring deadly agents in international espionage."
+    },
+    {
+        "id": 33,
+        "title": "A Minecraft Movie",
+        "region": "Hollywood",
+        "releaseDate": "2025-04-04",
+        "poster": "",
+        "description": "The beloved game comes to life in this live-action adventure film."
+    },
+    {
+        "id": 34,
+        "title": "Welcome to the Jungle",
+        "region": "India",
+        "releaseDate": "2024-12-20",
+        "poster": "",
+        "description": "The hilarious Welcome franchise continues with new comedic adventures."
+    },
+    {
+        "id": 35,
+        "title": "Zootopia 2",
+        "region": "Hollywood",
+        "releaseDate": "2025-11-26",
+        "poster": "",
+        "description": "Judy and Nick return for another adventure in the animal metropolis."
+    },
+    {
+        "id": 36,
+        "title": "Kanguva",
+        "region": "India",
+        "releaseDate": "2024-11-14",
+        "poster": "",
+        "description": "An epic that spans 1500 years with a tribal warrior's revenge saga."
+    },
+    {
+        "id": 37,
+        "title": "Lilo & Stitch",
+        "region": "Hollywood",
+        "releaseDate": "2025-05-23",
+        "poster": "",
+        "description": "The live-action remake of the beloved story of a girl and her alien friend."
+    },
+    {
+        "id": 38,
+        "title": "Vanvaas",
+        "region": "India",
+        "releaseDate": "2024-12-20",
+        "poster": "",
+        "description": "An emotional family drama about relationships and sacrifices."
+    },
+    {
+        "id": 39,
+        "title": "Snow White",
+        "region": "Hollywood",
+        "releaseDate": "2025-03-21",
+        "poster": "",
+        "description": "A live-action reimagining of the classic Disney fairy tale."
+    },
+    {
+        "id": 40,
+        "title": "Devara: Part 2",
+        "region": "India",
+        "releaseDate": "2025-09-26",
+        "poster": "",
+        "description": "The epic conclusion to the tale of the fierce lord of the coastal lands."
+    }
+]

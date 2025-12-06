@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "title": "Singham Again",
+        "platform": "Prime Video",
+        "releaseDate": "2024-12-27",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Bajirao Singham returns in an epic action saga facing his most formidable adversary yet."
+    },
+    {
+        "id": 2,
+        "title": "Bhool Bhulaiyaa 3",
+        "platform": "Netflix",
+        "releaseDate": "2025-01-15",
+        "genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "Rooh Baba encounters supernatural forces in a haunted palace with unexpected twists."
+    },
+    {
+        "id": 3,
+        "title": "Pushpa 2: The Rule",
+        "platform": "Prime Video",
+        "releaseDate": "2025-02-10",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "Pushpa Raj continues his rise in the red sandalwood smuggling syndicate while battling enemies."
+    },
+    {
+        "id": 4,
+        "title": "Deva",
+        "platform": "Netflix",
+        "releaseDate": "2025-02-14",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "A fearless cop uncovers a massive conspiracy while investigating a high-profile case."
+    },
+    {
+        "id": 5,
+        "title": "Chhaava",
+        "platform": "Prime Video",
+        "releaseDate": "2025-03-01",
+        "genres": [
+            "Historical",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "The story of Sambhaji Maharaj and his legendary courage defending the Maratha Empire."
+    },
+    {
+        "id": 6,
+        "title": "Sky Force",
+        "platform": "Netflix",
+        "releaseDate": "2025-03-20",
+        "genres": [
+            "Action",
+            "War"
+        ],
+        "poster": "",
+        "description": "India's first air strike film depicting the bravery of our Air Force heroes."
+    },
+    {
+        "id": 7,
+        "title": "Patna Shukla",
+        "platform": "Disney+ Hotstar",
+        "releaseDate": "2024-12-15",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "A lawyer fights for justice against a powerful education mafia in Bihar."
+    },
+    {
+        "id": 8,
+        "title": "Merry Christmas",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-20",
+        "genres": [
+            "Thriller",
+            "Romance"
+        ],
+        "poster": "",
+        "description": "Two strangers meet on Christmas Eve, leading to a night of dark revelations."
+    },
+    {
+        "id": 9,
+        "title": "Crew",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-25",
+        "genres": [
+            "Comedy",
+            "Heist"
+        ],
+        "poster": "",
+        "description": "Three flight attendants plan a heist to recover their unpaid salaries from their corrupt airline."
+    },
+    {
+        "id": 10,
+        "title": "Kalki 2898 AD",
+        "platform": "Prime Video",
+        "releaseDate": "2025-01-25",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "poster": "",
+        "description": "A dystopian epic set in the future blending mythology with cutting-edge science fiction."
+    },
+    {
+        "id": 11,
+        "title": "Stree 3",
+        "platform": "JioCinema",
+        "releaseDate": "2025-04-15",
+        "genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "The residents of Chanderi face a new supernatural threat more powerful than before."
+    },
+    {
+        "id": 12,
+        "title": "Mirzapur Season 4",
+        "platform": "Prime Video",
+        "releaseDate": "2025-03-10",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "The battle for Mirzapur's throne intensifies with deadlier power plays and betrayals."
+    },
+    {
+        "id": 13,
+        "title": "IC 814: The Kandahar Hijack",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-08",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "The gripping true story of the 1999 Indian Airlines hijacking that shook the nation."
+    },
+    {
+        "id": 14,
+        "title": "Heeramandi Season 2",
+        "platform": "Netflix",
+        "releaseDate": "2025-05-01",
+        "genres": [
+            "Drama",
+            "Historical"
+        ],
+        "poster": "",
+        "description": "The courtesans of Lahore continue their saga of love, power, and resilience."
+    },
+    {
+        "id": 15,
+        "title": "The Railway Men Season 2",
+        "platform": "Netflix",
+        "releaseDate": "2025-02-28",
+        "genres": [
+            "Drama",
+            "Historical"
+        ],
+        "poster": "",
+        "description": "Untold stories of courage and sacrifice from India's railway heroes continue."
+    },
+    {
+        "id": 16,
+        "title": "Asur Season 3",
+        "platform": "JioCinema",
+        "releaseDate": "2025-03-15",
+        "genres": [
+            "Thriller",
+            "Mythology"
+        ],
+        "poster": "",
+        "description": "Nikhil Nair and Dhananjay face an ancient evil with a new terrifying agenda."
+    },
+    {
+        "id": 17,
+        "title": "Maharaj",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-10",
+        "genres": [
+            "Drama",
+            "Historical"
+        ],
+        "poster": "",
+        "description": "The landmark 1862 libel case that challenged religious exploitation in colonial India."
+    },
+    {
+        "id": 18,
+        "title": "Khel Khel Mein",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-18",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "A group of friends play a dangerous game that reveals their darkest secrets."
+    },
+    {
+        "id": 19,
+        "title": "Devara Part 2",
+        "platform": "Prime Video",
+        "releaseDate": "2025-06-01",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "The epic conclusion to the tale of the fearsome lord of the seas."
+    },
+    {
+        "id": 20,
+        "title": "Ae Watan Mere Watan",
+        "platform": "Prime Video",
+        "releaseDate": "2024-12-12",
+        "genres": [
+            "Drama",
+            "Historical"
+        ],
+        "poster": "",
+        "description": "The inspiring story of freedom fighter Usha Mehta and her secret radio station."
+    },
+    {
+        "id": 21,
+        "title": "Panchayat Season 4",
+        "platform": "Prime Video",
+        "releaseDate": "2025-04-01",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Abhishek Tripathi continues his hilarious adventures as Phulera's village secretary."
+    },
+    {
+        "id": 22,
+        "title": "Made in Heaven Season 3",
+        "platform": "Prime Video",
+        "releaseDate": "2025-05-15",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "poster": "",
+        "description": "Tara and Karan navigate Delhi's elite wedding industry with new challenges."
+    },
+    {
+        "id": 23,
+        "title": "Khakee: The Bihar Chapter S2",
+        "platform": "Netflix",
+        "releaseDate": "2025-03-25",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "The battle against organized crime in Bihar continues with higher stakes."
+    },
+    {
+        "id": 24,
+        "title": "Bloody Daddy 2",
+        "platform": "JioCinema",
+        "releaseDate": "2025-04-20",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "A father returns to protect his family from even deadlier threats."
+    },
+    {
+        "id": 25,
+        "title": "Laapataa Ladies",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-05",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Two brides accidentally swap trains leading to a heartwarming tale of self-discovery."
+    },
+    {
+        "id": 26,
+        "title": "Amar Prem Ki Prem Kahani",
+        "platform": "Disney+ Hotstar",
+        "releaseDate": "2025-02-14",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "A quirky love story that challenges societal norms with humor and heart."
+    },
+    {
+        "id": 27,
+        "title": "Duranga Season 3",
+        "platform": "Zee5",
+        "releaseDate": "2025-02-20",
+        "genres": [
+            "Thriller",
+            "Romance"
+        ],
+        "poster": "",
+        "description": "The dark secrets of a double life continue to unravel with shocking revelations."
+    },
+    {
+        "id": 28,
+        "title": "Do Patti",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-22",
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "poster": "",
+        "description": "A cop investigates a case involving identical twins with deadly secrets."
+    },
+    {
+        "id": 29,
+        "title": "Kaalkoot Season 2",
+        "platform": "JioCinema",
+        "releaseDate": "2025-03-05",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Inspector Ravi Shankar tackles more complex cases in rural Uttar Pradesh."
+    },
+    {
+        "id": 30,
+        "title": "Shekhar Home Season 2",
+        "platform": "JioCinema",
+        "releaseDate": "2025-04-10",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "India's greatest detective returns to solve even more baffling mysteries."
+    }
+]

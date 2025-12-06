@@ -1,0 +1,361 @@
+[
+    {
+        "id": 1,
+        "title": "Squid Game Season 2",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-26",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "The deadly games return with new players and even higher stakes in this global phenomenon."
+    },
+    {
+        "id": 2,
+        "title": "The White Lotus Season 3",
+        "platform": "HBO Max",
+        "releaseDate": "2025-02-16",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "Wealthy guests check into a Thai resort, where dark secrets and satire collide."
+    },
+    {
+        "id": 3,
+        "title": "Daredevil: Born Again",
+        "platform": "Disney+",
+        "releaseDate": "2025-03-04",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "poster": "",
+        "description": "Matt Murdock returns as the Devil of Hell's Kitchen facing the Kingpin once more."
+    },
+    {
+        "id": 4,
+        "title": "The Last of Us Season 2",
+        "platform": "HBO Max",
+        "releaseDate": "2025-04-13",
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "poster": "",
+        "description": "Joel and Ellie's journey continues in a world ravaged by the cordyceps outbreak."
+    },
+    {
+        "id": 5,
+        "title": "Stranger Things Season 5",
+        "platform": "Netflix",
+        "releaseDate": "2025-07-04",
+        "genres": [
+            "Sci-Fi",
+            "Horror"
+        ],
+        "poster": "",
+        "description": "The final battle against Vecna begins as Hawkins faces its ultimate threat."
+    },
+    {
+        "id": 6,
+        "title": "Wednesday Season 2",
+        "platform": "Netflix",
+        "releaseDate": "2025-08-15",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "poster": "",
+        "description": "Wednesday Addams returns to Nevermore Academy with new mysteries to solve."
+    },
+    {
+        "id": 7,
+        "title": "Andor Season 2",
+        "platform": "Disney+",
+        "releaseDate": "2025-04-22",
+        "genres": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Cassian Andor's journey toward becoming a Rebel spy reaches its epic conclusion."
+    },
+    {
+        "id": 8,
+        "title": "The Penguin",
+        "platform": "HBO Max",
+        "releaseDate": "2024-12-08",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Oz Cobb rises through Gotham's criminal underworld after the events of The Batman."
+    },
+    {
+        "id": 9,
+        "title": "Severance Season 2",
+        "platform": "Paramount+",
+        "releaseDate": "2025-01-17",
+        "genres": [
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "poster": "",
+        "description": "Mark and his colleagues continue to unravel the mysteries of Lumon Industries."
+    },
+    {
+        "id": 10,
+        "title": "House of the Dragon Season 3",
+        "platform": "HBO Max",
+        "releaseDate": "2025-06-15",
+        "genres": [
+            "Fantasy",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "The Targaryen civil war intensifies as dragons clash over the Iron Throne."
+    },
+    {
+        "id": 11,
+        "title": "You Season 5",
+        "platform": "Netflix",
+        "releaseDate": "2025-03-24",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Joe Goldberg's final chapter unfolds as his past catches up with him."
+    },
+    {
+        "id": 12,
+        "title": "Ironheart",
+        "platform": "Disney+",
+        "releaseDate": "2025-06-24",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "poster": "",
+        "description": "Riri Williams builds her own advanced armor while confronting powerful enemies."
+    },
+    {
+        "id": 13,
+        "title": "The Bear Season 4",
+        "platform": "Hulu",
+        "releaseDate": "2025-06-27",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "Carmy and the crew continue their high-pressure pursuit of culinary excellence."
+    },
+    {
+        "id": 14,
+        "title": "Outer Banks Season 4",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-12",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "The Pogues embark on their biggest treasure hunt yet with dangerous new rivals."
+    },
+    {
+        "id": 15,
+        "title": "Euphoria Season 3",
+        "platform": "HBO Max",
+        "releaseDate": "2025-01-26",
+        "genres": [
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Rue and her friends navigate the complexities of addiction, identity, and love."
+    },
+    {
+        "id": 16,
+        "title": "Gladiator II",
+        "platform": "Paramount+",
+        "releaseDate": "2025-02-28",
+        "genres": [
+            "Action",
+            "Historical"
+        ],
+        "poster": "",
+        "description": "Lucius seeks vengeance and glory in the brutal arenas of ancient Rome."
+    },
+    {
+        "id": 17,
+        "title": "Agatha All Along",
+        "platform": "Disney+",
+        "releaseDate": "2024-12-10",
+        "genres": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "Agatha Harkness escapes her fate and forms a new coven of witches."
+    },
+    {
+        "id": 18,
+        "title": "Bad Sisters Season 2",
+        "platform": "Prime Video",
+        "releaseDate": "2024-12-18",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "The Garvey sisters face new threats as past secrets resurface to haunt them."
+    },
+    {
+        "id": 19,
+        "title": "Fallout Season 2",
+        "platform": "Prime Video",
+        "releaseDate": "2025-04-15",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "poster": "",
+        "description": "Lucy, Maximus, and The Ghoul continue their journey through the wasteland."
+    },
+    {
+        "id": 20,
+        "title": "The Witcher Season 4",
+        "platform": "Netflix",
+        "releaseDate": "2025-07-15",
+        "genres": [
+            "Fantasy",
+            "Action"
+        ],
+        "poster": "",
+        "description": "A new actor takes on the mantle of Geralt as the Continent faces new threats."
+    },
+    {
+        "id": 21,
+        "title": "Yellowjackets Season 3",
+        "platform": "Paramount+",
+        "releaseDate": "2025-02-14",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "More dark secrets from the wilderness survival ordeal come to light."
+    },
+    {
+        "id": 22,
+        "title": "Only Murders in the Building S4",
+        "platform": "Hulu",
+        "releaseDate": "2024-12-20",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "poster": "",
+        "description": "The podcasting trio investigates a murder connected to a Hollywood production."
+    },
+    {
+        "id": 23,
+        "title": "Arcane Season 2",
+        "platform": "Netflix",
+        "releaseDate": "2024-12-07",
+        "genres": [
+            "Animation",
+            "Action"
+        ],
+        "poster": "",
+        "description": "The conflict between Piltover and Zaun escalates in this stunning animated epic."
+    },
+    {
+        "id": 24,
+        "title": "Peaky Blinders Movie",
+        "platform": "Netflix",
+        "releaseDate": "2025-09-15",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Tommy Shelby's saga reaches its explosive conclusion in this feature film."
+    },
+    {
+        "id": 25,
+        "title": "Skeleton Crew",
+        "platform": "Disney+",
+        "releaseDate": "2024-12-03",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "poster": "",
+        "description": "Kids get lost in the Star Wars galaxy and must find their way home."
+    },
+    {
+        "id": 26,
+        "title": "Knives Out 3",
+        "platform": "Netflix",
+        "releaseDate": "2025-08-30",
+        "genres": [
+            "Mystery",
+            "Comedy"
+        ],
+        "poster": "",
+        "description": "Detective Benoit Blanc takes on another twisty murder mystery case."
+    },
+    {
+        "id": 27,
+        "title": "The Night Manager Season 2",
+        "platform": "Prime Video",
+        "releaseDate": "2025-05-10",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "Jonathan Pine returns for another dangerous undercover mission."
+    },
+    {
+        "id": 28,
+        "title": "Cobra Kai Season 6 Part 3",
+        "platform": "Netflix",
+        "releaseDate": "2025-02-13",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "poster": "",
+        "description": "The final showdown at the Sekai Taikai determines the ultimate karate champion."
+    },
+    {
+        "id": 29,
+        "title": "Black Mirror Season 7",
+        "platform": "Netflix",
+        "releaseDate": "2025-01-09",
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "New twisted tales explore technology's dark potential for humanity."
+    },
+    {
+        "id": 30,
+        "title": "Reacher Season 3",
+        "platform": "Prime Video",
+        "releaseDate": "2025-02-20",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "poster": "",
+        "description": "Jack Reacher takes on a new case involving dangerous conspiracies."
+    }
+]
