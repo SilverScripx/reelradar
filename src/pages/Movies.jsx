@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { Helmet } from 'react-helmet-async'
 import ReleaseCard from '../components/ReleaseCard'
 import FilterBar from '../components/FilterBar'
+import { fetchMoviesData } from '../services/dataService'
 
 const REGIONS = ['India', 'Hollywood']
 
@@ -11,8 +12,7 @@ function Movies() {
     const [activeFilter, setActiveFilter] = useState('all')
 
     useEffect(() => {
-        fetch('/data/movies.json')
-            .then(res => res.json())
+        fetchMoviesData()
             .then(setData)
             .catch(console.error)
             .finally(() => setLoading(false))

@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
+import { getDataUrl } from '../services/dataService'
 
 function ReleaseDetail() {
     const { type, id } = useParams()
@@ -11,22 +12,8 @@ function ReleaseDetail() {
     useEffect(() => {
         const fetchRelease = async () => {
             try {
-                let dataFile
-                switch (type) {
-                    case 'india':
-                        dataFile = '/data/india.json'
-                        break
-                    case 'global':
-                        dataFile = '/data/global.json'
-                        break
-                    case 'movies':
-                        dataFile = '/data/movies.json'
-                        break
-                    default:
-                        throw new Error('Invalid release type')
-                }
-
-                const data = await fetch(dataFile).then(res => res.json())
+                const dataUrl = getDataUrl(type)
+                const data = await fetch(dataUrl).then(res => res.json())
                 const found = data.find(item => item.id === id)
 
                 if (!found) {

@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 import ReleaseCard from '../components/ReleaseCard'
+import { fetchAllData } from '../services/dataService'
 
 function Home() {
     const [indiaData, setIndiaData] = useState([])
@@ -10,13 +11,9 @@ function Home() {
     const [loading, setLoading] = useState(true)
 
     useEffect(() => {
-        const fetchData = async () => {
+        const loadData = async () => {
             try {
-                const [india, global, movies] = await Promise.all([
-                    fetch('/data/india.json').then(res => res.json()),
-                    fetch('/data/global.json').then(res => res.json()),
-                    fetch('/data/movies.json').then(res => res.json()),
-                ])
+                const { india, global, movies } = await fetchAllData()
                 setIndiaData(india)
                 setGlobalData(global)
                 setMoviesData(movies)
@@ -26,7 +23,7 @@ function Home() {
                 setLoading(false)
             }
         }
-        fetchData()
+        loadData()
     }, [])
 
     if (loading) {

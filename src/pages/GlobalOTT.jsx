@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { Helmet } from 'react-helmet-async'
 import ReleaseCard from '../components/ReleaseCard'
 import FilterBar from '../components/FilterBar'
+import { fetchGlobalData } from '../services/dataService'
 
 const PLATFORMS = ['HBO Max', 'Hulu', 'Disney+', 'Paramount+', 'Prime']
 
@@ -11,8 +12,7 @@ function GlobalOTT() {
     const [activeFilter, setActiveFilter] = useState('all')
 
     useEffect(() => {
-        fetch('/data/global.json')
-            .then(res => res.json())
+        fetchGlobalData()
             .then(setData)
             .catch(console.error)
             .finally(() => setLoading(false))

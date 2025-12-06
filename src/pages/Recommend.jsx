@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import { Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
+import { fetchAllData } from '../services/dataService'
 
 function Recommend() {
     const [allItems, setAllItems] = useState([])
@@ -10,13 +11,9 @@ function Recommend() {
 
     // Load all data on mount
     useEffect(() => {
-        const fetchData = async () => {
+        const loadData = async () => {
             try {
-                const [india, global, movies] = await Promise.all([
-                    fetch('/data/india.json').then(res => res.json()),
-                    fetch('/data/global.json').then(res => res.json()),
-                    fetch('/data/movies.json').then(res => res.json()),
-                ])
+                const { india, global, movies } = await fetchAllData()
 
                 // Add source type to each item for proper linking and display
                 const indiaWithType = india.map(item => ({ ...item, sourceType: 'india' }))
@@ -31,7 +28,7 @@ function Recommend() {
                 setLoading(false)
             }
         }
-        fetchData()
+        loadData()
     }, [])
 
     // Random selection function

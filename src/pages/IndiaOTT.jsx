@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { Helmet } from 'react-helmet-async'
 import ReleaseCard from '../components/ReleaseCard'
 import FilterBar from '../components/FilterBar'
+import { fetchIndiaData } from '../services/dataService'
 
 const PLATFORMS = ['Netflix', 'Prime', 'Hotstar', 'Zee5', 'JioCinema']
 
@@ -11,8 +12,7 @@ function IndiaOTT() {
     const [activeFilter, setActiveFilter] = useState('all')
 
     useEffect(() => {
-        fetch('/data/india.json')
-            .then(res => res.json())
+        fetchIndiaData()
             .then(setData)
             .catch(console.error)
             .finally(() => setLoading(false))

@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { Helmet } from 'react-helmet-async'
 import ReleaseCard from '../components/ReleaseCard'
 import SearchInput from '../components/SearchInput'
+import { fetchAllData } from '../services/dataService'
 
 function Search() {
     const [indiaData, setIndiaData] = useState([])
@@ -11,13 +12,9 @@ function Search() {
     const [query, setQuery] = useState('')
 
     useEffect(() => {
-        const fetchData = async () => {
+        const loadData = async () => {
             try {
-                const [india, global, movies] = await Promise.all([
-                    fetch('/data/india.json').then(res => res.json()),
-                    fetch('/data/global.json').then(res => res.json()),
-                    fetch('/data/movies.json').then(res => res.json()),
-                ])
+                const { india, global, movies } = await fetchAllData()
                 setIndiaData(india)
                 setGlobalData(global)
                 setMoviesData(movies)
@@ -27,7 +24,7 @@ function Search() {
                 setLoading(false)
             }
         }
-        fetchData()
+        loadData()
     }, [])
 
     const searchResults = useMemo(() => {
